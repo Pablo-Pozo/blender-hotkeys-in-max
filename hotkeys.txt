@@ -1,0 +1,35 @@
+HotKey - Blender tool - Max tool
+
+--Navigation
+G - Move - Move
+R - Rotate - Rotate
+S - Scale - Scale
+num1 - Front View - Front View
+num3 - Right View - Right View
+num5 - Perspective Toggle - Perspective
+num9 - 180º Orbit - Left View
+num7 - Top View - Top View
+num. - Frame Selected - Zoom Extents Selected
+num/ - Toggle Isolate - Isolate
+`/^/[ -  - Show Grid Toggle
+
+--Modelling
+Ctrl + R - Loop Cut - Swift Loop
+J - Connect Vertex Pairs - Connect
+Shift + D - Clone - Clone
+F - Fill - Cap Poly
+Ctrl + num+ - Grow Selection - Grow Selection
+Ctrl + num- - Shrink Selection - Shrink Selection
+Shift + Tab - Snap Toggle - Snap Toggle
+Ctrl + J - Join - Attach
+V - Split - Split Edge
+K - Knife Tool - Cut
+P - Separate - Detach
+H - Hide - Hide
+Alt + H - Unhide - Unhide
+X - Remove - Remove
+Ctrl + Shift + num+ - Repeat Last Action - Repeat Last Operation
+
+--Miscelaneous
+º/ª/\ - Search - Search
+F2 - Rename - Rename
