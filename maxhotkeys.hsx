@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MaxHotkeyTransformations Locked="false">
+    <Unassign_Hotkey Shortcut="W" Description="Select and Move" Id="0-50001"/>
+    <Assign_Hotkey Shortcut=";" Description="Hide Grids Toggle" Id="0-40077"/>
+    <Unassign_Hotkey Shortcut="G" Description="Hide Grids Toggle" Id="0-40077"/>
+    <Assign_Hotkey Shortcut=";" Description="Show Grid" Id="5-6060"/>
+    <Unassign_Hotkey Shortcut="G" Description="Show Grid" Id="5-6060"/>
+    <Assign_Hotkey Shortcut=";" Description="Show Grid" Id="369891408-40061"/>
+    <Unassign_Hotkey Shortcut="G" Description="Show Grid" Id="369891408-40061"/>
+    <Assign_Hotkey Shortcut="G" Description="Select and Move" Id="0-50001"/>
+    <Unassign_Hotkey Shortcut="S" Description="Snaps Toggle" Id="0-40072"/>
+    <Assign_Hotkey Shortcut="S" Description="Scale" Id="647394-Scale`Tools"/>
+    <Unassign_Hotkey Shortcut="R" Description="Smart Scale" Id="647394-SmartScale`Tools"/>
+    <Assign_Hotkey Shortcut="R" Description="Rotate" Id="647394-Rotate`Tools"/>
+    <Assign_Hotkey Shortcut="Shift+Tab" Description="Snaps Toggle" Id="0-40072"/>
+    <Unassign_Hotkey Shortcut="Ctrl+R" Description="Orbit View Mode" Id="0-40203"/>
+    <Assign_Hotkey Shortcut="Ctrl+R" Description="Swift Loop" Id="647394-SwiftLoop`PolyTools"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+E" Description="Connect" Id="1250838234-40061"/>
+    <Assign_Hotkey Shortcut="J" Description="Connect" Id="1250838234-40061"/>
+    <Assign_Hotkey Shortcut="J" Description="Connect" Id="369982487-40061"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+E" Description="Connect" Id="369982487-40061"/>
+    <Unassign_Hotkey Shortcut="Ctrl+V" Description="Clone" Id="0-40213"/>
+    <Assign_Hotkey Shortcut="Shift+D" Description="Clone" Id="0-40213"/>
+    <Unassign_Hotkey Shortcut="Num+/" Description="Virtual Viewport Toggle" Id="0-368"/>
+    <Assign_Hotkey Shortcut="Num+/" Description="Isolate Selection" Id="0-197"/>
+    <Unassign_Hotkey Shortcut="Alt+Q" Description="Isolate Selection" Id="0-197"/>
+    <Unassign_Hotkey Shortcut="F" Description="Front View" Id="0-40060"/>
+    <Assign_Hotkey Shortcut="F" Description="Cap (Poly)" Id="647394-EPoly_Cap`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Ctrl+PgUp" Description="Grow Selection" Id="1250838234-40037"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Up" Description="Grow Selection" Id="1250838234-40037"/>
+    <Assign_Hotkey Shortcut="Ctrl+Num++" Description="Grow Selection" Id="1250838234-40037"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Down" Description="Shrink Selection" Id="1250838234-40040"/>
+    <Unassign_Hotkey Shortcut="Ctrl+PgDown" Description="Shrink Selection" Id="1250838234-40040"/>
+    <Assign_Hotkey Shortcut="Ctrl+Num+-" Description="Shrink Selection" Id="1250838234-40040"/>
+    <Assign_Hotkey Shortcut="Num+1" Description="Front View" Id="0-40060"/>
+    <Unassign_Hotkey Shortcut="L" Description="Left View" Id="0-40061"/>
+    <Unassign_Hotkey Shortcut="T" Description="Top View" Id="0-40059"/>
+    <Assign_Hotkey Shortcut="Num+7" Description="Top View" Id="0-40059"/>
+    <Assign_Hotkey Shortcut="Num+9" Description="Left View" Id="0-40061"/>
+    <Assign_Hotkey Shortcut="Num+3" Description="Right View" Id="0-40062"/>
+    <Assign_Hotkey Shortcut="Num+5" Description="Perspective User View" Id="0-40182"/>
+    <Unassign_Hotkey Shortcut="P" Description="Perspective User View" Id="0-40182"/>
+    <Assign_Hotkey Shortcut="Num+." Description="Zoom Extents Selected" Id="0-310"/>
+</MaxHotkeyTransformations>
