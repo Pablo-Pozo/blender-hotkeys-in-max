@@ -41,4 +41,50 @@
     <Assign_Hotkey Shortcut="Num+5" Description="Perspective User View" Id="0-40182"/>
     <Unassign_Hotkey Shortcut="P" Description="Perspective User View" Id="0-40182"/>
     <Assign_Hotkey Shortcut="Num+." Description="Zoom Extents Selected" Id="0-310"/>
+    <Unassign_Hotkey Shortcut="Alt+P" Description="Cap" Id="1250838234-40060"/>
+    <Assign_Hotkey Shortcut="F" Description="Cap" Id="1250838234-40060"/>
+    <Unassign_Hotkey Shortcut="Alt+P" Description="Cap" Id="369982487-40060"/>
+    <Assign_Hotkey Shortcut="F" Description="Cap" Id="369982487-40060"/>
+    <Unassign_Hotkey Shortcut="Shift+R" Description="Break" Id="1250838234-40011"/>
+    <Assign_Hotkey Shortcut="K" Description="Cut" Id="1250838234-40015"/>
+    <Unassign_Hotkey Shortcut="Alt+C" Description="Cut" Id="1250838234-40015"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Alt+D" Description="Detach" Id="1250838234-40031"/>
+    <Unassign_Hotkey Shortcut="Alt+H" Description="Hide" Id="1250838234-40021"/>
+    <Assign_Hotkey Shortcut="H" Description="Hide" Id="1250838234-40021"/>
+    <Unassign_Hotkey Shortcut=";" Description="Repeat Last Operation" Id="1250838234-40052"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+Num++" Description="Repeat Last Operation" Id="1250838234-40052"/>
+    <Assign_Hotkey Shortcut="Ctrl+J" Description="Attach" Id="1250838234-40010"/>
+    <Unassign_Hotkey Shortcut="Alt+Shift+D" Description="Attach" Id="1250838234-40010"/>
+    <Assign_Hotkey Shortcut="P" Description="Detach" Id="1250838234-40031"/>
+    <Unassign_Hotkey Shortcut="X" Description="Launch Global Search" Id="39081-32653"/>
+    <Assign_Hotkey Shortcut="X" Description="Delete Objects" Id="0-40020"/>
+    <Unassign_Hotkey Shortcut="Del" Description="Delete" Id="455101522-40001"/>
+    <Assign_Hotkey Shortcut="X" Description="Delete" Id="455101522-40001"/>
+    <Unassign_Hotkey Shortcut="Del" Description="Delete Selected" Id="369891408-40058"/>
+    <Assign_Hotkey Shortcut="X" Description="Delete Selected" Id="369891408-40058"/>
+    <Unassign_Hotkey Shortcut="Del" Description="Delete Objects" Id="0-40020"/>
+    <Assign_Hotkey Shortcut="Alt+H" Description="Unhide All" Id="1250838234-40033"/>
+    <Unassign_Hotkey Shortcut="Alt+U" Description="Unhide All" Id="1250838234-40033"/>
+    <Unassign_Hotkey Shortcut="Alt+H" Description="Hide Selected" Id="951718758-40021"/>
+    <Assign_Hotkey Shortcut="Alt+H" Description="Unhide All" Id="951718758-40033"/>
+    <Unassign_Hotkey Shortcut="Alt+U" Description="Unhide All" Id="951718758-40033"/>
+    <Unassign_Hotkey Shortcut="Alt+H" Description="Hide Selected" Id="1909744250-40012"/>
+    <Assign_Hotkey Shortcut="Alt+H" Description="Show Hidden" Id="1909744250-40013"/>
+    <Unassign_Hotkey Shortcut="Alt+U" Description="Show Hidden" Id="1909744250-40013"/>
+    <Unassign_Hotkey Shortcut="Alt+U" Description="CV Constrained U Move" Id="888304868-30032"/>
+    <Assign_Hotkey Shortcut="Alt+H" Description="CV Constrained U Move" Id="888304868-30032"/>
+    <Unassign_Hotkey Shortcut="Alt+U" Description="Unhide All" Id="369982487-40033"/>
+    <Unassign_Hotkey Shortcut="Alt+H" Description="Hide" Id="369982487-40021"/>
+    <Assign_Hotkey Shortcut="Alt+H" Description="Unhide All" Id="369982487-40033"/>
+    <Unassign_Hotkey Shortcut="Alt+U" Description="Unhide All" Id="0-277"/>
+    <Unassign_Hotkey Shortcut="Alt+H" Description="Hide Selection" Id="0-223"/>
+    <Assign_Hotkey Shortcut="Alt+H" Description="Unhide All" Id="0-277"/>
+    <Unassign_Hotkey Shortcut="Alt+H" Description="Hide Selected" Id="2077580866-40021"/>
+    <Assign_Hotkey Shortcut="Alt+H" Description="Unhide All" Id="2077580866-40022"/>
+    <Unassign_Hotkey Shortcut="Alt+U" Description="Unhide All" Id="2077580866-40022"/>
+    <Unassign_Hotkey Shortcut="\" Description="Sound Toggle" Id="0-40204"/>
+    <Assign_Hotkey Shortcut="\" Description="Launch Global Search" Id="39081-32653"/>
+    <Assign_Hotkey Shortcut="V" Description="Split" Id="951718758-40045"/>
+    <Assign_Hotkey Shortcut="V" Description="Split Edges" Id="1250838234-40059"/>
+    <Assign_Hotkey Shortcut="V" Description="Split Edges" Id="369982487-40059"/>
 </MaxHotkeyTransformations>
