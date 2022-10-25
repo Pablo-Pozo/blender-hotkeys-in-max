@@ -28,7 +28,7 @@ P - Separate - Detach
 H - Hide - Hide
 Alt + H - Unhide - Unhide
 X - Remove - Remove
-Ctrl + Shift + num+ - Repeat Last Action - Repeat Last Operation
+Shift + R - Repeat Last Action - Repeat Last Operation
 
 --Miscelaneous
 º/ª/\ - Search - Search
