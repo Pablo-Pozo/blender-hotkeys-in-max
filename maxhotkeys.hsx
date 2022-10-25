@@ -51,7 +51,6 @@
     <Unassign_Hotkey Shortcut="Alt+H" Description="Hide" Id="1250838234-40021"/>
     <Assign_Hotkey Shortcut="H" Description="Hide" Id="1250838234-40021"/>
     <Unassign_Hotkey Shortcut=";" Description="Repeat Last Operation" Id="1250838234-40052"/>
-    <Assign_Hotkey Shortcut="Ctrl+Shift+Num++" Description="Repeat Last Operation" Id="1250838234-40052"/>
     <Assign_Hotkey Shortcut="Ctrl+J" Description="Attach" Id="1250838234-40010"/>
     <Unassign_Hotkey Shortcut="Alt+Shift+D" Description="Attach" Id="1250838234-40010"/>
     <Assign_Hotkey Shortcut="P" Description="Detach" Id="1250838234-40031"/>
@@ -94,4 +93,5 @@
     <Assign_Hotkey Shortcut="H" Description="Hide Selection" Id="0-223"/>
     <Unassign_Hotkey Shortcut="Ctrl+Alt+Q" Description="Isolate Selection Toggle" Id="0-268"/>
     <Assign_Hotkey Shortcut="Num+/" Description="Isolate Selection Toggle" Id="0-268"/>
+    <Assign_Hotkey Shortcut="Shift+R" Description="Repeat Last Operation" Id="1250838234-40052"/>
 </MaxHotkeyTransformations>
